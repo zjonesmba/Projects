@@ -16,7 +16,6 @@ elif rem_repo == 'public':
 else:
     folder_location = input("Drag the folder's location here that you would like to push:")
 
-
 # Assigning the variable to a list
 ls = []
 ls.append(rem_repo)
